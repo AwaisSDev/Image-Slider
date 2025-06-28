@@ -1,41 +1,20 @@
-Image Slider
-Description
-This is a simple Image Slider web component built using HTML, CSS, and JavaScript. It displays a series of images in a slideshow format with both manual and automatic navigation options.
+# 📸 Image Slider
 
-Auto-slide every 3 seconds for smooth viewing.
+A clean and simple **image slider** built using HTML, CSS, and vanilla JavaScript. It supports both automatic and manual sliding and is perfect for use in portfolios, landing pages, and product showcases.
 
-Next and Previous buttons allow manual control.
+## 🚀 Features
 
-Responsive layout with smooth sliding animation.
+- 🔁 Auto-slide every 3 seconds
+- ⬅️➡️ Manual navigation with "Prev" and "Next" buttons
+- 💨 Smooth sliding animation using CSS `transform`
+- 💡 Easy to customize (image size, speed, content)
+- 💻 Responsive-friendly base setup (you can expand it!)
 
-Easy to customize by adding/removing images.
+## 🛠️ Tech Stack
 
-Perfect as a landing page feature, portfolio showcase, or any place you want to display images interactively.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-Features
-Slide transition using CSS transform and JavaScript.
-
-Looping from last to first slide and vice versa.
-
-Auto-play timer that resets after manual navigation.
-
-Clean, minimal design with arrow buttons.
-
-How to Use
-Clone or download the repo.
-
-Open index.html in any modern browser.
-
-Customize images by replacing URLs inside index.html.
-
-Adjust slider width in CSS if needed.
-
-Enjoy!
-
-Tech Stack
-HTML5
-
-CSS3 (Flexbox, Transitions)
-
-Vanilla JavaScript
+## 📦 File Structure
 
